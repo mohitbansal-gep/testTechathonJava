@@ -1,6 +1,6 @@
 import outlook
 mail = outlook.Outlook()
-mail.login('emailaccouqwqwnt@live.com','wewewewew2asd')
+mail.login('emailaccouqwqwnt@live.com','qwqwqw')
 mail.inbox()
 print mail.unread()
 
